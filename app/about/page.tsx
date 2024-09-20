@@ -6,7 +6,7 @@ import { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "About Page",
-  description: "This is About Page for ICEI Abroad Study",
+  description: "This is About Page for Maa Kali Constructions",
   // other metadata
 };
 
@@ -14,8 +14,8 @@ const AboutPage = () => {
   return (
     <>
       <Breadcrumb
-        pageName="ICEI Abroad Study"
-        description="Welcome To Indian Abroad Study Institute Need more contents"
+        pageName="Maa Kali Constructions"
+        description="Welcome and Discover how we can turn your vision into reality"
       />
       <AboutSectionOne />
       <AboutSectionTwo />
