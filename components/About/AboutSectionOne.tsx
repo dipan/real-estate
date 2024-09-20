@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="About ICEI ABROAD STUDY."
-                paragraph="A ISO certified Government Authorized Computer Training Centre We provide computer training and various courses certificate which help people in securing jobs in government and private sector."
+                title="About MAA TARA CONSTRUCTIONS"
+                paragraph="Our construction company specializes in delivering high-quality residential and commercial projects. With a team of skilled professionals and a commitment to excellence, we transform your vision into reality. From concept to completion, we provide comprehensive construction services, ensuring timely delivery and exceeding client expectations."
                 mb="44px"
               />
 
@@ -35,15 +35,15 @@ const AboutSectionOne = () => {
               >
                 <div className="mx-[-12px] flex flex-wrap">
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Premium quality" />
-                    <List text="Tailwind CSS" />
-                    <List text="Use for lifetime" />
+                    <List text="Quality construction" />
+                    <List text="Timeless design" />
+                    <List text="Experienced builders" />
                   </div>
 
                   <div className="w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2">
-                    <List text="Next.js" />
-                    <List text="Rich documentation" />
-                    <List text="Developer friendly" />
+                    <List text="Your vision, our mission" />
+                    <List text="Building trust, one project at a time" />
+                    <List text="Innovative solutions" />
                   </div>
                 </div>
               </div>
