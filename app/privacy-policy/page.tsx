@@ -55,7 +55,7 @@ const PrivacyPolicy = () => {
                   </p>
                   <h3>Definitions</h3>
                   <p>For the purposes of this Privacy Policy:</p>
-                  <ul>
+                  <ul className="list-inside list-disc">
                     <li>
                       <p>
                         <strong>Account</strong> means a unique account created
