@@ -26,88 +26,73 @@ const PrivacyPolicy = () => {
                 <div className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>Last updated: September 23, 2024</p>
                   <p>
-                    This Privacy Policy describes Our policies and procedures on
-                    the collection, use and disclosure of Your information when
-                    You use the Service and tells You about Your privacy rights
-                    and how the law protects You.
+                    At MAA KALI CONSTRUCTION, we are committed to safeguarding
+                    your privacy. This Privacy Policy outlines how we collect,
+                    use, and protect your information when you interact with our
+                    website and services.
                   </p>
-                  <p>
-                    We use Your Personal data to provide and improve the
-                    Service. By using the Service, You agree to the collection
-                    and use of information in accordance with this Privacy
-                    Policy. This Privacy Policy has been created with the help
-                    of the{" "}
-                    <a
-                      href="https://www.example.com/privacy-policy-generator/"
-                      target="_blank"
-                    >
-                      Privacy Policy Generator
-                    </a>
-                    .
-                  </p>
-                  <h2>Interpretation and Definitions</h2>
-                  <h3>Interpretation</h3>
-                  <p>
-                    The words of which the initial letter is capitalized have
-                    meanings defined under the following conditions. The
-                    following definitions shall have the same meaning regardless
-                    of whether they appear in singular or in plural.
-                  </p>
-                  <h3>Definitions</h3>
-                  <p>For the purposes of this Privacy Policy:</p>
-                  <ul className="list-disc">
+                  <ol className="list-disc">
                     <li>
                       <p>
-                        <strong>Introduction:</strong> This Privacy Policy
-                        outlines how MAA KALI CONSTRUCTION collects, uses,
-                        discloses, and protects your personal information when
-                        you interact with our website, services, or products.
-                      </p>
-                    </li>
-                    <li>
-                      <p>
-                        <strong>Information Collection:</strong> We may collect
-                        personal information such as your name, email address,
-                        phone number, and other contact details when you:
+                        <strong>Information We Collect:</strong> We may collect
+                        personal information, such as:
                         <ul>
-                          <li>Visit our website</li>
-                          <li>Contact our customer support</li>
-                          <li>Create an account</li>
-                          <li>Use our services</li>
-                        </ul>
-                      </p>
-                    </li>
-                    <li>
-                      <p>
-                        <strong>Information Use:</strong> We may use your
-                        personal information to:
-                        <ul>
-                          <li>Provide and improve our services</li>
                           <li>
-                            Communicate with you about our products and services
+                            <strong>Contact Information:</strong> Name, email
+                            address, phone number, and physical address when you
+                            inquire about our services.
                           </li>
-                          <li>Process orders and payments</li>
-                          <li>Respond to your inquiries and requests</li>
                           <li>
-                            Analyze website usage and improve our marketing
-                            efforts
+                            <strong>Payment Information:</strong>
+                            Financial data necessary for processing payments for
+                            services.
+                          </li>
+                          <li>
+                            <strong>Browsing Data:</strong> Cookies and other
+                            tracking technologies to improve your browsing
+                            experience.
                           </li>
                         </ul>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Information Sharing:</strong> We may share your
-                        personal information with:
+                        <strong>How We Use Your Information:</strong> We use the
+                        collected information for purposes such as:
                         <ul>
-                          <li>Our affiliates and subsidiaries</li>
                           <li>
-                            Third-party service providers who assist us in
-                            operating our business
+                            Responding to your inquiries and providing requested
+                            services.
                           </li>
                           <li>
-                            Law enforcement agencies or regulatory bodies as
-                            required by law
+                            Processing transactions and managing payments.
+                          </li>
+                          <li>
+                            Improving our website and services based on user
+                            behaviour and feedback.
+                          </li>
+                          <li>
+                            Sending updates, newsletters, and promotional
+                            materials, if opted-in.
+                          </li>
+                        </ul>
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <strong>Information Sharing:</strong> We do not sell,
+                        rent, or trade your personal information. We may share
+                        data with:
+                        <ul>
+                          <li>
+                            <strong>Service Providers:</strong> Third-party
+                            vendors who assist us in providing our services
+                            (e.g., payment processors).
+                          </li>
+                          <li>
+                            <strong>Legal Obligations:</strong> In cases where
+                            disclosure is required by law, regulation, or court
+                            order.
                           </li>
                         </ul>
                       </p>
@@ -116,67 +101,53 @@ const PrivacyPolicy = () => {
                       <p>
                         <strong>Data Security:</strong> We implement reasonable
                         security measures to protect your personal information
-                        from unauthorized access, disclosure, alteration, or
-                        destruction.
+                        from unauthorized access, loss, or disclosure. However,
+                        no method of transmission over the internet is entirely
+                        secure, and we cannot guarantee absolute security.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Cookies and Tracking Technologies:</strong> We
-                        may use cookies and similar tracking technologies to
-                        collect information about your interactions with our
-                        website. This information may be used to personalize
-                        your experience and improve our services. tablet.
+                        <strong>Cookies and Tracking Technologies:</strong> Our
+                        website uses cookies to collect browsing data and
+                        improve user experience. You can manage cookie settings
+                        through your browser.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Your Rights:</strong> You may have the right to:
+                        <strong>Your Choices:</strong> You have the right to:
                         <ul>
-                          <li>Access and correct your personal information</li>
+                          <li>Opt out of marketing communications.</li>
                           <li>
-                            Request the deletion of your personal information
+                            Request access, correction, or deletion of your
+                            personal data.
                           </li>
-                          <li>
-                            Object to the processing of your personal
-                            information
-                          </li>
-                          <li>
-                            Restrict the processing of your personal information
-                          </li>
-                          <li>Data portability</li>
+                          <li>Control cookie settings.</li>
                         </ul>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Changes to This Privacy Policy</strong> We may
-                        update this Privacy Policy from time to time. Any
-                        changes will be posted on this page.
+                        <strong>Third-Party Links:</strong> Our website may
+                        contain links to third-party sites. We are not
+                        responsible for the privacy practices or content of
+                        those websites.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Data Retention</strong> We retain your personal
-                        information for as long as necessary to fulfill the
-                        purposes outlined in this Privacy Policy or as required
-                        by law.
+                        <strong>Children's Privacy:</strong> Our services are
+                        not directed to individuals under 18, and we do not
+                        knowingly collect personal information from minors.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Third-party Social Media Service</strong> refers
-                        to any website or any social network website through
-                        which a User can log in or create an account to use the
-                        Service.
-                      </p>
-                    </li>
-                    <li>
-                      <p>
-                        <strong>Usage Data</strong> refers to data collected
-                        automatically, either generated by the use of the
-                        Service or from the Service infrastructure itself (for
-                        example, the duration of a page visit).
+                        <strong>Changes to this Policy:</strong> We may update
+                        this policy from time to time. Any changes will be
+                        posted on this page, and the updated policy will be
+                        effective immediately.
                       </p>
                     </li>
                     <li>
@@ -191,15 +162,7 @@ const PrivacyPolicy = () => {
                         </a>
                       </p>
                     </li>
-                    <li>
-                      <p>
-                        <strong>You</strong> means the individual accessing or
-                        using the Service, or the company, or other legal entity
-                        on behalf of which such individual is accessing or using
-                        the Service, as applicable.
-                      </p>
-                    </li>
-                  </ul>
+                  </ol>
                   <h2>Collecting and Using Your Personal Data</h2>
                   <h3>Types of Data Collected</h3>
                   <h4>Personal Data</h4>
@@ -886,9 +849,11 @@ const PrivacyPolicy = () => {
                         Popular Tags :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="Design" />
-                        <TagButton text="Development" />
-                        <TagButton text="Info" />
+                        <TagButton text="Construction" />
+                        <TagButton text="Home Builder" />
+                        <TagButton text="Architecture" />
+                        <TagButton text="Affordable Housing" />
+                        <TagButton text="Luxury Homes" />
                       </div>
                     </div>
                     <div className="mb-5">
