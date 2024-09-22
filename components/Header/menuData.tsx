@@ -43,7 +43,7 @@ const menuData: Menu[] = [
     title: "Term Conditions",
     path: "/term-condition",
     newTab: false,
-  }
+  },
   // ,
   // {
   //   id: 4,
