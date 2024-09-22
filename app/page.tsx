@@ -12,7 +12,7 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Example",
+  title: "Maa Kali Construction",
   description: "Example",
   // other metadata
 };
@@ -24,12 +24,12 @@ export default function Home() {
       <Hero />
       <Features />
       {/* <Video /> */}
-      <Brands />
+      {/* <Brands /> */}
       <AboutSectionOne />
       <AboutSectionTwo />
       <Testimonials />
       {/* <Pricing /> */}
-      <Blog />
+      {/* <Blog /> */}
       <Contact />
     </>
   );
