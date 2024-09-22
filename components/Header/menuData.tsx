@@ -41,7 +41,7 @@ const menuData: Menu[] = [
   {
     id: 6,
     title: "Term Conditions",
-    path: "/term-conditions",
+    path: "/term-condition",
     newTab: false,
   }
   // ,
