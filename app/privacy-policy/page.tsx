@@ -886,9 +886,11 @@ const PrivacyPolicy = () => {
                         Popular Tags :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="Design" />
-                        <TagButton text="Development" />
-                        <TagButton text="Info" />
+                        <TagButton text="Construction" />
+                        <TagButton text="Home Builder" />
+                        <TagButton text="Architecture" />
+                        <TagButton text="Affordable Housing" />
+                        <TagButton text="Luxury Homes" />
                       </div>
                     </div>
                     <div className="mb-5">
