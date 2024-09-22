@@ -79,7 +79,7 @@ const PrivacyPolicy = () => {
                     </li>
                     <li>
                       <p>
-                        <strong>Information Use</strong> We may use your
+                        <strong>Information Use:</strong> We may use your
                         personal information to:
                         <ul>
                           <li>Provide and improve our services</li>
@@ -97,45 +97,70 @@ const PrivacyPolicy = () => {
                     </li>
                     <li>
                       <p>
-                        <strong>Cookies</strong> are small files that are placed
-                        on Your computer, mobile device or any other device by a
-                        website, containing the details of Your browsing history
-                        on that website among its many uses.
+                        <strong>Information Sharing:</strong> We may share your
+                        personal information with:
+                        <ul>
+                          <li>Our affiliates and subsidiaries</li>
+                          <li>
+                            Third-party service providers who assist us in
+                            operating our business
+                          </li>
+                          <li>
+                            Law enforcement agencies or regulatory bodies as
+                            required by law
+                          </li>
+                        </ul>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Country</strong> refers to: Gujarat, India
+                        <strong>Data Security:</strong> We implement reasonable
+                        security measures to protect your personal information
+                        from unauthorized access, disclosure, alteration, or
+                        destruction.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Device</strong> means any device that can access
-                        the Service such as a computer, a cellphone or a digital
-                        tablet.
+                        <strong>Cookies and Tracking Technologies:</strong> We
+                        may use cookies and similar tracking technologies to
+                        collect information about your interactions with our
+                        website. This information may be used to personalize
+                        your experience and improve our services. tablet.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Personal Data</strong> is any information that
-                        relates to an identified or identifiable individual.
+                        <strong>Your Rights:</strong> You may have the right to:
+                        <ul>
+                          <li>Access and correct your personal information</li>
+                          <li>
+                            Request the deletion of your personal information
+                          </li>
+                          <li>
+                            Object to the processing of your personal
+                            information
+                          </li>
+                          <li>
+                            Restrict the processing of your personal information
+                          </li>
+                          <li>Data portability</li>
+                        </ul>
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Service</strong> refers to the Website.
+                        <strong>Changes to This Privacy Policy</strong> We may
+                        update this Privacy Policy from time to time. Any
+                        changes will be posted on this page.
                       </p>
                     </li>
                     <li>
                       <p>
-                        <strong>Service Provider</strong> means any natural or
-                        legal person who processes the data on behalf of the
-                        Company. It refers to third-party companies or
-                        individuals employed by the Company to facilitate the
-                        Service, to provide the Service on behalf of the
-                        Company, to perform services related to the Service or
-                        to assist the Company in analyzing how the Service is
-                        used.
+                        <strong>Data Retention</strong> We retain your personal
+                        information for as long as necessary to fulfill the
+                        purposes outlined in this Privacy Policy or as required
+                        by law.
                       </p>
                     </li>
                     <li>
@@ -159,11 +184,10 @@ const PrivacyPolicy = () => {
                         <strong>Website</strong> refers to exmaple, accessible
                         from{" "}
                         <a
-                          href="https://www.example.com/"
+                          href="https://www.example.comhttps://makaliconstruction.vercel.app/"
                           rel="external nofollow noopener"
-                          target="_blank"
                         >
-                          https://www.example.com/
+                          https://makaliconstruction.vercel.app/
                         </a>
                       </p>
                     </li>
