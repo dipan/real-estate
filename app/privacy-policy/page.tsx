@@ -31,12 +31,12 @@ const PrivacyPolicy = () => {
                     use, and protect your information when you interact with our
                     website and services.
                   </p>
-                  <ol className="list-disc">
+                  <ol className="list-decimal">
                     <li>
                       <p>
                         <strong>Information We Collect:</strong> We may collect
                         personal information, such as:
-                        <ul>
+                        <ul className="list-disc pl-6 pb-6">
                           <li>
                             <strong>Contact Information:</strong> Name, email
                             address, phone number, and physical address when you
@@ -59,7 +59,7 @@ const PrivacyPolicy = () => {
                       <p>
                         <strong>How We Use Your Information:</strong> We use the
                         collected information for purposes such as:
-                        <ul>
+                        <ul className="list-disc pl-6 pb-6">
                           <li>
                             Responding to your inquiries and providing requested
                             services.
@@ -83,7 +83,7 @@ const PrivacyPolicy = () => {
                         <strong>Information Sharing:</strong> We do not sell,
                         rent, or trade your personal information. We may share
                         data with:
-                        <ul>
+                        <ul className="list-disc pl-6 pb-6">
                           <li>
                             <strong>Service Providers:</strong> Third-party
                             vendors who assist us in providing our services
@@ -117,7 +117,7 @@ const PrivacyPolicy = () => {
                     <li>
                       <p>
                         <strong>Your Choices:</strong> You have the right to:
-                        <ul>
+                        <ul className="list-disc pl-6 pb-6">
                           <li>Opt out of marketing communications.</li>
                           <li>
                             Request access, correction, or deletion of your
@@ -172,7 +172,7 @@ const PrivacyPolicy = () => {
                     to contact or identify You. Personally identifiable
                     information may include, but is not limited to:
                   </p>
-                  <ul>
+                  <ul className="list-disc pl-6 pb-6">
                     <li>
                       <p>Email address</p>
                     </li>
