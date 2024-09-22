@@ -55,7 +55,7 @@ const PrivacyPolicy = () => {
                   </p>
                   <h3>Definitions</h3>
                   <p>For the purposes of this Privacy Policy:</p>
-                  <ul className="list-inside list-disc">
+                  <ul className="list-disc">
                     <li>
                       <p>
                         <strong>Introduction:</strong> This Privacy Policy
