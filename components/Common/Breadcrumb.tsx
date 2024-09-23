@@ -48,7 +48,7 @@ const Breadcrumb = ({
                   Email: constructionmaakali800@gmail.com
                 </p>
                 <p className="text-base font-medium leading-relaxed text-body-color">
-                  Phone: +91 6291275060
+                  Phone: <a href="tel:+916291275060">+91 6291275060</a>
                 </p>
               </div>
             </div>
