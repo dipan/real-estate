@@ -40,7 +40,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   After-Sales Support
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Offering post-construction support, including warranty
                   services and maintenance assistance.
                 </p>
@@ -49,7 +49,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Transparent Communication
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Open and honest communication with clients throughout the
                   project lifecycle, keeping them informed about progress and
                   addressing any concerns.
