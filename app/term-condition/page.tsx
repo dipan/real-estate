@@ -24,13 +24,7 @@ const TermCondition = () => {
                   Term Condition
                 </h2>
                 <div className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  <p>Last updated: May 29, 2024</p>
-                  <p>
-                    This Privacy Policy describes Our policies and procedures on
-                    the collection, use and disclosure of Your information when
-                    You use the Service and tells You about Your privacy rights
-                    and how the law protects You.
-                  </p>
+                  <p>Last updated: September 23, 2024</p>
                   <ul>
                     <li>
                       <p>
