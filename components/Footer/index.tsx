@@ -3,11 +3,10 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Footer = () => {
-  var d = new Date(); 
-    let currentYear = d.getFullYear();
+  var d = new Date();
+  let currentYear = d.getFullYear();
   return (
     <>
-     
       <footer
         className="wow fadeInUp dark:bg-gray-dark relative z-10 bg-white pt-16 md:pt-20 lg:pt-24"
         data-wow-delay=".1s"
@@ -33,7 +32,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                Example
+                  18, Ellora Road Survey Park Kolkata 700075
                 </p>
                 <div className="flex items-center">
                   <a
@@ -141,23 +140,7 @@ const Footer = () => {
                       href="/"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      TOS
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
                       Privacy Policy
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      Refund Policy
                     </a>
                   </li>
                 </ul>
@@ -183,7 +166,7 @@ const Footer = () => {
                       href="/"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      Terms of Use
+                      Terms & Conditions
                     </a>
                   </li>
                   <li>
@@ -202,7 +185,8 @@ const Footer = () => {
           <div className="h-px w-full bg-gradient-to-r from-transparent via-[#D2D8E183] to-transparent dark:via-[#959CB183]"></div>
           <div className="py-8">
             <p className="text-center text-base text-body-color dark:text-white">
-            &#x24B8; Copyright {currentYear}, Example{" "}All Right Reserved
+              &#x24B8; Copyright {currentYear}, Maa Kali Construction All Right
+              Reserved
             </p>
           </div>
         </div>

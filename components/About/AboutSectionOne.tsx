@@ -24,7 +24,7 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="About MAA TARA CONSTRUCTIONS"
+                title="About MAA KALI CONSTRUCTIONS"
                 paragraph="Our construction company specializes in delivering high-quality residential and commercial projects. With a team of skilled professionals and a commitment to excellence, we transform your vision into reality. From concept to completion, we provide comprehensive construction services, ensuring timely delivery and exceeding client expectations."
                 mb="44px"
               />
