@@ -23,7 +23,7 @@ const PrivacyPolicy = () => {
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
                   Privacy Policy
                 </h2>
-                <div className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>Last updated: September 23, 2024</p>
                   <p>
                     At MAA KALI CONSTRUCTION, we are committed to safeguarding
