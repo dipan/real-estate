@@ -22,7 +22,7 @@ const AboutSectionOne = () => {
       <div className="container">
         <div className="border-b border-body-color/[.15] pb-16 dark:border-white/[.15] md:pb-20 lg:pb-28">
           <div className="-mx-4 flex flex-wrap items-center">
-            <div className="w-full justify-center  px-4 lg:w-1/2">
+            <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
                 title="About MAA TARA CONSTRUCTIONS"
                 paragraph="Our construction company specializes in delivering high-quality residential and commercial projects. With a team of skilled professionals and a commitment to excellence, we transform your vision into reality. From concept to completion, we provide comprehensive construction services, ensuring timely delivery and exceeding client expectations."
