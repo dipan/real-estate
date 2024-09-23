@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@babel/eslint-parser": "^7.23.10",
+    "embla-carousel-autoplay": "^8.3.0",
+    "embla-carousel-react": "^8.3.0",
     "eslint": "8.47.0",
     "eslint-config-next": "13.1.6",
     "next": "^13.5.6",
