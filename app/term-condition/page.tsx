@@ -23,7 +23,7 @@ const TermCondition = () => {
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
                   Term Condition
                 </h2>
-                <div className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>Last updated: May 29, 2024</p>
                   <p>
                     This Privacy Policy describes Our policies and procedures on
@@ -31,7 +31,7 @@ const TermCondition = () => {
                     You use the Service and tells You about Your privacy rights
                     and how the law protects You.
                   </p>
-                  <ul>
+                  <ol className="list-decimal">
                     <li>
                       <p>
                         <strong>Scope of Services:</strong> Clearly define the
@@ -44,7 +44,7 @@ const TermCondition = () => {
                       <p>
                         <strong>Payment Terms:</strong> Outline the payment
                         schedule, including:
-                        <ul>
+                        <ul className="list-disc pl-6">
                           <li>Down payments</li>
                           <li>Progress payments</li>
                           <li>Final payment</li>
@@ -106,7 +106,7 @@ const TermCondition = () => {
                         between the parties.
                       </p>
                     </li>
-                  </ul>
+                  </ol>
                 </div>
               </div>
             </div>
