@@ -1,5 +1,5 @@
 import React from "react";
-import { UncontrolledCarousel, Row, Col } from "reactstrap";
+// import { UncontrolledCarousel, Row, Col } from "reactstrap";
 
 const items = [
   {
@@ -26,11 +26,12 @@ const items = [
 ];
 
 const Carosal = () => (
-  <Row>
-    <Col md="8" className="mx-auto">
-      <UncontrolledCarousel items={items} />
-    </Col>
-  </Row>
+  // <Row>
+  //   <Col md="8" className="mx-auto">
+  //     {/* <UncontrolledCarousel items={items} /> */}
+  //   </Col>
+  // </Row>
+  <></>
 );
 
 export default Carosal;
