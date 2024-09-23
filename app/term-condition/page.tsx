@@ -71,11 +71,6 @@ const TermCondition = () => {
                     </li>
                     <li>
                       <p>
-                        <strong>Country</strong> refers to: Gujarat, India
-                      </p>
-                    </li>
-                    <li>
-                      <p>
                         <strong>Insurance:</strong> Require the construction
                         company to carry adequate insurance coverage, such as
                         general liability, workers' compensation, and property
@@ -102,6 +97,13 @@ const TermCondition = () => {
                         parties and supersedes all prior or contemporaneous
                         communications, representations, or agreements, whether
                         oral or written.
+                      </p>
+                    </li>
+                    <li>
+                      <p>
+                        <strong>Confidentiality:</strong> Address the
+                        confidentiality of proprietary information exchanged
+                        between the parties.
                       </p>
                     </li>
                   </ul>
