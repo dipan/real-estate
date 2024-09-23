@@ -32,7 +32,8 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  18, Ellora Road Survey Park Kolkata 700075
+                  Maa Kali Construction, Buddhadev Maity, 1700 Madurdah Kolkata
+                  700107
                 </p>
                 <div className="flex items-center">
                   <a
