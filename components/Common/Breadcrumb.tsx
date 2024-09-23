@@ -41,6 +41,18 @@ const Breadcrumb = ({
               </div>
             </div>
           </div>
+          <div className="-mx-4 flex flex-wrap items-center">
+            <div className="w-full px-4 md:w-8/12 lg:w-7/12">
+              <div className="mb-8 max-w-[570px] md:mb-0 lg:mb-12">
+                <p className="text-base font-medium leading-relaxed text-body-color">
+                  Email: constructionmaakali800@gmail.com
+                </p>
+                <p className="text-base font-medium leading-relaxed text-body-color">
+                  Phone: +91 6291275060
+                </p>
+              </div>
+            </div>
+          </div>
         </div>
 
         <div>
