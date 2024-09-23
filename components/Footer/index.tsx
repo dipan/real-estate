@@ -94,41 +94,6 @@ const Footer = () => {
                 </div>
               </div>
             </div>
-
-            <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
-              <div className="mb-12 lg:mb-16">
-                <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Useful Links
-                </h2>
-                <ul>
-                  <li>
-                    <a
-                      href="/blogs"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      Blog
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/pricing"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      Pricing
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="/about"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      About
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
@@ -146,35 +111,34 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-
             <div className="w-full px-4 md:w-1/2 lg:w-4/12 xl:w-3/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Support & Help
+                  Useful Links
                 </h2>
                 <ul>
                   <li>
                     <a
-                      href="/contact"
+                      href="/privacy-policy"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      Open Support Ticket
+                      Privacy Policy
                     </a>
                   </li>
                   <li>
                     <a
-                      href="/"
+                      href="/cancellation-policy"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      Terms & Conditions
+                      Cancellation Policy
                     </a>
                   </li>
                   <li>
                     <a
-                      href="/about"
+                      href="/term-condition"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
-                      About
+                      Term Condition
                     </a>
                   </li>
                 </ul>
