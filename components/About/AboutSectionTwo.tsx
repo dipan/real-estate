@@ -30,7 +30,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Bug free code
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
@@ -39,7 +39,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Premier support
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt.
                 </p>
@@ -48,7 +48,7 @@ const AboutSectionTwo = () => {
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
                   Next.js
                 </h3>
-                <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
+                <p className="text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   Lorem ipsum dolor sit amet, sed do eiusmod tempor incididunt
                   consectetur adipiscing elit setim.
                 </p>
