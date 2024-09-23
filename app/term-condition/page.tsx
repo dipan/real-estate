@@ -32,7 +32,7 @@ const TermCondition = () => {
                     to use our services after any changes are made, you agree to
                     be bound by the revised terms and conditions.
                   </p>
-                  <ul>
+                  <ol className="list-decimal">
                     <li>
                       <p>
                         <strong>Scope of Services:</strong> Clearly define the
@@ -45,7 +45,7 @@ const TermCondition = () => {
                       <p>
                         <strong>Payment Terms:</strong> Outline the payment
                         schedule, including:
-                        <ul>
+                        <ul className="list-disc pl-6">
                           <li>Down payments</li>
                           <li>Progress payments</li>
                           <li>Final payment</li>
@@ -107,7 +107,7 @@ const TermCondition = () => {
                         between the parties.
                       </p>
                     </li>
-                  </ul>
+                  </ol>
                 </div>
               </div>
             </div>

@@ -23,7 +23,7 @@ const CancellationPolicy = () => {
                 <h2 className="mb-8 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight">
                   Cancellation Policy
                 </h2>
-                <div className="mb-10 text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
+                <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>Last updated: September 23, 2024</p>
                   <p>
                     MAA KALI CONSTRUCTION reserves the right to cancel any
@@ -35,11 +35,11 @@ const CancellationPolicy = () => {
                     all or a portion of the prepaid fees or deposits as
                     liquidated damages.
                   </p>
-                  <ol>
+                  <ol className="list-decimal">
                     <li>
                       <p>
                         <strong>Notice Period:</strong>
-                        <ul>
+                        <ul className="list-disc pl-6">
                           <li>
                             Specify the required notice period for project
                             cancellation. This could be a fixed number of days
@@ -58,7 +58,7 @@ const CancellationPolicy = () => {
                         <strong>Cancellation Fees:</strong> Outline the
                         cancellation fees that will be charged. These may
                         include:
-                        <ul>
+                        <ul className="list-disc pl-6">
                           <li>
                             Down payments: The full or partial refund of the
                             down payment may be subject to a cancellation fee.
