@@ -25,6 +25,16 @@ const CancellationPolicy = () => {
                 </h2>
                 <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
                   <p>Last updated: September 23, 2024</p>
+                  <p>
+                    MAA KALI CONSTRUCTION reserves the right to cancel any
+                    project at any time, for any reason, with or without cause.
+                    In the event of a cancellation, MAA KALI CONSTRUCTION will
+                    refund any prepaid fees or deposits, less any applicable
+                    cancellation charges. If the cancellation is due to a breach
+                    of contract by the client, MAA KALI CONSTRUCTION may retain
+                    all or a portion of the prepaid fees or deposits as
+                    liquidated damages.
+                  </p>
                   <ol className="list-decimal">
                     <li>
                       <p>
