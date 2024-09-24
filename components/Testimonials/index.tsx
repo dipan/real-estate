@@ -7,8 +7,8 @@ const testimonialData: Testimonial[] = [
     id: 1,
     name: "Sandeep Jha",
     content:
-      "The delivery was incredibly fast! I ordered the product on Monday and received it the very next day. Amazing service!",
-    image: "/images/testimonials/auth-01.png",
+      "The delivery was incredibly fast! I ordered the product on Monday and received it the very next day. Staff are very co-operative Amazing service!",
+    image: "/images/testimonials/auth-01.jpg",
     star: 5,
   },
   {
@@ -16,7 +16,7 @@ const testimonialData: Testimonial[] = [
     name: "Joy Naskar",
     content:
       "I was so impressed with the packaging of my order. Everything was securely wrapped and arrived in perfect condition. Great attention to detail!",
-    image: "/images/testimonials/auth-02.png",
+    image: "/images/testimonials/auth-02.jpg",
     star: 5,
   },
   {
@@ -24,7 +24,7 @@ const testimonialData: Testimonial[] = [
     name: "Jayanta Mallik",
     content:
       "The delivery driver was very friendly and helpful. They even assisted me in carrying the heavy package upstairs. Excellent customer service!",
-    image: "/images/testimonials/auth-03.png",
+    image: "/images/testimonials/auth-03.jpg",
     star: 5,
   },
 ];
