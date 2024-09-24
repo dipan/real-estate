@@ -11,22 +11,22 @@ const testimonialData: Testimonial[] = [
     image: "/images/testimonials/auth-01.png",
     star: 5,
   },
-  // {
-  //   id: 2,
-  //   name: "Joy Naskar",
-  //   content:
-  //     "I was so impressed with the packaging of my order. Everything was securely wrapped and arrived in perfect condition. Great attention to detail!",
-  //   image: "/images/testimonials/auth-02.png",
-  //   star: 5,
-  // },
-  // {
-  //   id: 3,
-  //   name: "Jayanta Mallik",
-  //   content:
-  //     "The delivery driver was very friendly and helpful. They even assisted me in carrying the heavy package upstairs. Excellent customer service!",
-  //   image: "/images/testimonials/auth-03.png",
-  //   star: 5,
-  // },
+  {
+    id: 2,
+    name: "Joy Naskar",
+    content:
+      "I was so impressed with the packaging of my order. Everything was securely wrapped and arrived in perfect condition. Great attention to detail!",
+    image: "/images/testimonials/auth-02.png",
+    star: 5,
+  },
+  {
+    id: 3,
+    name: "Jayanta Mallik",
+    content:
+      "The delivery driver was very friendly and helpful. They even assisted me in carrying the heavy package upstairs. Excellent customer service!",
+    image: "/images/testimonials/auth-03.png",
+    star: 5,
+  },
 ];
 
 const Testimonials = () => {
