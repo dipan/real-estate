@@ -21,7 +21,7 @@ const Hero = () => {
         id="home"
         className="dark:bg-gray-dark relative z-10  overflow-hidden bg-white pb-16 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
       >
-        <div className="absolute top-0 z-[-1] opacity-60 lg:opacity-60">
+        <div className="absolute top-0 z-[-1] opacity-60 lg:opacity-80">
           <div
             className="embla"
             ref={emblaRef}
@@ -30,27 +30,36 @@ const Hero = () => {
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 1  */}
                 <img
-            src="/images/hero/bn.jpg"
+            src="/images/hero/bnr1.jpg"
             width={2000}
-            height="10px"
+            // height="10px"
             alt="Picture of the construction"
           />
               </div>
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 2 */}
                 <img
-            src="/images/hero/bnr.jpg"
+            src="/images/hero/bnr2.jpg"
             width={2000}
-            height="10px"
+            // height="10px"
             alt="Picture of the construction"
           />
               </div>
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 3 */}
                 <img
-            src="/images/hero/bnr.png"
+            src="/images/hero/bnr3.jpg"
             width={2000}
-            height="10px"
+            // height="10px"
+            alt="Picture of the construction"
+          />
+              </div>
+              <div className="embla__slide flex text-center justify-center">
+                {/* Slide 4 */}
+                <img
+            src="/images/hero/bnr4.jpg"
+            width={2000}
+            // height="40px"
             alt="Picture of the construction"
           />
               </div>
@@ -81,7 +90,7 @@ const Hero = () => {
                   Building dreams,
                   <br /> One brick at a time.
                 </h1>
-                <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
+                <p className="dark:text-white mb-12 text-base !leading-relaxed text-black sm:text-lg md:text-xl">
                   Your vision, our mission.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
