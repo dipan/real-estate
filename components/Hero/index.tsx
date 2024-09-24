@@ -1,7 +1,20 @@
+'use client'
 import Image from "next/image";
 import Link from "next/link";
+import React, { useEffect } from "react";
+import useEmblaCarousel from "embla-carousel-react";
+import Autoplay from "embla-carousel-autoplay";
 
 const Hero = () => {
+  const [emblaRef, emblaApi] = useEmblaCarousel({ loop: true }, [
+    Autoplay({ delay: 4000 }),
+  ]);
+
+  useEffect(() => {
+    if (emblaApi) {
+      console.log(emblaApi.slideNodes()); // Access API
+    }
+  }, [emblaApi]);
   return (
     <>
       <section
@@ -9,12 +22,46 @@ const Hero = () => {
         className="dark:bg-gray-dark relative z-10  overflow-hidden bg-white pb-16 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
       >
         <div className="absolute top-0 z-[-1] opacity-60 lg:opacity-60">
-          <img
+          <div
+            className="embla"
+            ref={emblaRef}
+          >
+            <div className="embla__container h-full">
+              <div className="embla__slide flex text-center justify-center">
+                {/* Slide 1  */}
+                <img
             src="/images/hero/bn.jpg"
             width={2000}
             height="10px"
             alt="Picture of the construction"
           />
+              </div>
+              <div className="embla__slide flex text-center justify-center">
+                {/* Slide 2 */}
+                <img
+            src="/images/hero/bnr.jpg"
+            width={2000}
+            height="10px"
+            alt="Picture of the construction"
+          />
+              </div>
+              <div className="embla__slide flex text-center justify-center">
+                {/* Slide 3 */}
+                <img
+            src="/images/hero/bnr.png"
+            width={2000}
+            height="10px"
+            alt="Picture of the construction"
+          />
+              </div>
+            </div>
+          </div>
+          {/* <img
+            src="/images/hero/bn.jpg"
+            width={2000}
+            height="10px"
+            alt="Picture of the construction"
+          /> */}
           {/* <Image 
         src="/images/hero/bn.jpg" 
         alt="Banner Image" 
@@ -31,7 +78,8 @@ const Hero = () => {
                 data-wow-delay=".2s"
               >
                 <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                  Building dreams,<br /> One brick at a time.
+                  Building dreams,
+                  <br /> One brick at a time.
                 </h1>
                 <p className="dark:text-body-color-dark mb-12 text-base !leading-relaxed text-body-color sm:text-lg md:text-xl">
                   Your vision, our mission.
