@@ -103,7 +103,7 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/privacy-policy"
+                      href="/duepayment"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Privacy Policy
@@ -111,7 +111,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/cancellation-policy"
+                      href="/duepayment"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Cancellation Policy
@@ -119,7 +119,7 @@ const Footer = () => {
                   </li>
                   <li>
                     <a
-                      href="/term-condition"
+                      href="/duepayment"
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Term Condition
