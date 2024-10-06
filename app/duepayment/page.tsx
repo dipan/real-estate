@@ -18,7 +18,7 @@ const DuePayment = () => {
             <div className="w-full px-4 text-center">
             <div className="shadow-three mx-auto max-w-[500px] rounded bg-white px-6 py-10 dark:bg-dark sm:p-[60px]">
             <h3 className="mb-4 text-3xl font-bold text-black dark:text-white sm:text-4xl">
-                  Sorry, the page can’t be found becouse of payement due
+                  Sorry, the page can’t be found becouse of payment due
                 </h3>
                 <Image
                   src="/images/duepayment/paymentdue.jpeg"
