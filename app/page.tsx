@@ -10,6 +10,7 @@ import Pricing from "@/components/Pricing";
 import Testimonials from "@/components/Testimonials";
 import Video from "@/components/Video";
 import { Metadata } from "next";
+import DuePayment from "./duepayment/page";
 
 export const metadata: Metadata = {
   title: "Maa Kali Construction",
@@ -21,13 +22,14 @@ export default function Home() {
   return (
     <>
       <ScrollUp />
-      <Hero />
-      <Features />
+      {/* <Hero /> */}
+      <DuePayment/>
+      {/* <Features /> */}
       {/* <Video /> */}
       {/* <Brands /> */}
-      <AboutSectionOne />
-      <AboutSectionTwo />
-      <Testimonials />
+      {/* <AboutSectionOne /> */}
+      {/* <AboutSectionTwo /> */}
+      {/* <Testimonials /> */}
       {/* <Pricing /> */}
       {/* <Blog /> */}
       <Contact />
