@@ -10,8 +10,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "About",
-    // path: "/about",
-    path: "/duepayment",
+    path: "/about",
     newTab: false,
   },
   // {
@@ -23,30 +22,25 @@ const menuData: Menu[] = [
   {
     id: 3,
     title: "Contact",
-    // path: "/contact",
-    path: "/duepayment",
+    path: "/contact",
     newTab: false,
-  }
-  ,
+  },
   {
     id: 4,
     title: "Privacy Policy",
-    // path: "/privacy-policy",
-    path: "/duepayment",
+    path: "/privacy-policy",
     newTab: false,
   },
   {
     id: 5,
     title: "Cancellation Policy",
-    // path: "/cancellation-policy",
-    path: "/duepayment",
+    path: "/cancellation-policy",
     newTab: false,
   },
   {
     id: 6,
     title: "Term Conditions",
-    // path: "/term-condition",
-    path: "/duepayment",
+    path: "/term-condition",
     newTab: false,
   },
   // ,

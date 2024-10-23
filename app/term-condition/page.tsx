@@ -24,7 +24,7 @@ const TermCondition = () => {
                   Term Condition
                 </h2>
                 <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  <p>Last updated: September 23, 2024</p>
+                  <p>Last updated: October 24, 2024</p>
                   <p>
                     MAA KALI CONSTRUCTION reserves the right to amend or modify
                     these terms and conditions at any time, and such changes

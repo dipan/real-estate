@@ -22,16 +22,16 @@ export default function Home() {
   return (
     <>
       <ScrollUp />
-      {/* <Hero /> */}
-      <DuePayment/>
-      {/* <Features /> */}
-      {/* <Video /> */}
-      {/* <Brands /> */}
-      {/* <AboutSectionOne /> */}
-      {/* <AboutSectionTwo /> */}
-      {/* <Testimonials /> */}
-      {/* <Pricing /> */}
-      {/* <Blog /> */}
+      <Hero />
+      {/* <DuePayment/> */}
+      <Features />
+      <Video />
+      <Brands />
+      <AboutSectionOne />
+      <AboutSectionTwo />
+      <Testimonials />
+      <Pricing />
+      <Blog />
       <Contact />
     </>
   );
