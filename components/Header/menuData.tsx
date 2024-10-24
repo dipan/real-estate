@@ -11,7 +11,6 @@ const menuData: Menu[] = [
     id: 2,
     title: "About",
     path: "/about",
-    // path: "/duepayment",
     newTab: false,
   },
   // {
@@ -24,29 +23,24 @@ const menuData: Menu[] = [
     id: 3,
     title: "Contact",
     path: "/contact",
-    // path: "/duepayment",
     newTab: false,
-  }
-  ,
+  },
   {
     id: 4,
     title: "Privacy Policy",
     path: "/privacy-policy",
-    // path: "/duepayment",
     newTab: false,
   },
   {
     id: 5,
     title: "Cancellation Policy",
     path: "/cancellation-policy",
-    // path: "/duepayment",
     newTab: false,
   },
   {
     id: 6,
     title: "Term Conditions",
     path: "/term-condition",
-    // path: "/duepayment",
     newTab: false,
   },
   // ,

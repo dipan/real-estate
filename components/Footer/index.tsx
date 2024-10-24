@@ -32,8 +32,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Maa Kali Construction, Buddhadev Maity, 1700 Madurdah Kolkata
-                  700107
+                  18, WARD NO-109,SURVEYPARK,ELLORA ROAD,KOLKATA-700075
                 </p>
                 <div className="flex items-center">
                   <a

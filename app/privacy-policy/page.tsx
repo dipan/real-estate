@@ -24,7 +24,7 @@ const PrivacyPolicy = () => {
                   Privacy Policy
                 </h2>
                 <div className="mb-10 text-justify font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed lg:text-base lg:leading-relaxed xl:text-lg xl:leading-relaxed">
-                  <p>Last updated: September 23, 2024</p>
+                  <p>Last updated: October 24, 2024</p>
                   <p>
                     At MAA KALI CONSTRUCTION, we are committed to safeguarding
                     your privacy. This Privacy Policy outlines how we collect,
