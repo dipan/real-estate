@@ -35,7 +35,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="What Our Users Says"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Maa Kali Contruction features cutting-edge architectural designs, sustainable building practices, and top-tier amenities to enhance both functionality and aesthetics."
           center
         />
 
