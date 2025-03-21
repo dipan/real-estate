@@ -12,7 +12,7 @@ const Pricing = () => {
       <div className="container">
         <SectionTitle
           title="Simple and Affordable Pricing"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="Maa Kali Contruction features cutting-edge architectural designs, sustainable building practices, and top-tier amenities to enhance both functionality and aesthetics."
           center
           width="665px"
         />

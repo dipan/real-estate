@@ -11,7 +11,7 @@ const Blog = () => {
       <div className="container">
         <SectionTitle
           title="Our Latest Project"
-          paragraph="There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form."
+          paragraph="With a strong commitment to quality and innovation, Maa Kali Construction continues to set new benchmarks in the construction industry."
           center
         />
 
