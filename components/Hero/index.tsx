@@ -1,4 +1,4 @@
-'use client'
+"use client";
 import Image from "next/image";
 import Link from "next/link";
 import React, { useEffect } from "react";
@@ -22,46 +22,43 @@ const Hero = () => {
         className="dark:bg-gray-dark relative z-10  overflow-hidden bg-white pb-16 pt-[120px] md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
       >
         <div className="absolute top-0 h-56 z-[-1] opacity-60 lg:opacity-80">
-          <div
-            className="embla"
-            ref={emblaRef}
-          >
+          <div className="embla" ref={emblaRef}>
             <div className="embla__container h-full">
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 1  */}
                 <img
-            src="/images/hero/bnr5.jpg"
-            width={2000}
-            height="10px"
-            alt="Picture of the construction"
-          />
+                  src="/images/hero/bnr5.jpg"
+                  width={2000}
+                  height="10px"
+                  alt="Picture of the construction"
+                />
               </div>
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 2 */}
                 <img
-            src="/images/hero/bnr2.jpg"
-            width={2000}
-            height="10px"
-            alt="Picture of the construction"
-          />
+                  src="/images/hero/bnr2.jpg"
+                  width={2000}
+                  height="10px"
+                  alt="Picture of the construction"
+                />
               </div>
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 3 */}
                 <img
-            src="/images/hero/bnr3.jpg"
-            width={2000}
-            height="10px"
-            alt="Picture of the construction"
-          />
+                  src="/images/hero/bnr3.jpg"
+                  width={2000}
+                  height="10px"
+                  alt="Picture of the construction"
+                />
               </div>
               <div className="embla__slide flex text-center justify-center">
                 {/* Slide 4 */}
                 <img
-            src="/images/hero/bnr4.jpg"
-            width={2000}
-            height="10px"
-            alt="Picture of the construction"
-          />
+                  src="/images/hero/bnr4.jpg"
+                  width={2000}
+                  height="10px"
+                  alt="Picture of the construction"
+                />
               </div>
             </div>
           </div>
@@ -101,7 +98,7 @@ const Hero = () => {
                     Get a Free Quote
                   </Link>
                   <Link
-                    href="#"
+                    href="/contact"
                     className="inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5"
                   >
                     Projects
