@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import NewsLatterBox from "./NewsLatterBox";
+import HELP_EMAIL from "@/utility/email-template.constants";
 
 const Contact = () => {
   const initialFormData = {
@@ -26,12 +27,35 @@ const Contact = () => {
     setIsLoading(true);
 
     try {
-      const emailPayload = {}
-      const response = await fetch("https://droplet.dipan.dev/api/public/email", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(formData),
-      });
+      const urlParamString = new URLSearchParams({
+        email: "kairavnaskar19@gmail.com",
+        name: `${formData.firstName} ${formData.lastName}`,
+        subject: "Ticket from maakalicontruction.in",
+      }).toString();
+      const emailPayload: any = {
+        html: HELP_EMAIL({
+          name: `${formData.firstName} ${formData.lastName}`,
+          phone: formData.contact,
+          email: formData.email,
+          message: formData.message,
+        }),
+        replyTo: {
+          name: `${formData.firstName} ${formData.lastName}`,
+          email: formData.email,
+        },
+        sender: {
+          name: "maakaliconstruction.in",
+          email: "no-reply@maakaliconstruction.in",
+        },
+      };
+      const response = await fetch(
+        "https://droplet.dipan.dev/api/public/email?" + urlParamString,
+        {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(emailPayload),
+        }
+      );
 
       const result = await response.json();
 
